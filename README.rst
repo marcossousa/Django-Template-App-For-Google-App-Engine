@@ -1,5 +1,5 @@
-GOOGLE APP ENGINE TEMPLATE FOR DJANGO
-=====================================
+Django Application Template for Google App Engine
+=================================================
 
 This is a template project to help creating Django applications to Google App Engine.  
 This template application enables Django 1.2 in Google App Engine.
@@ -16,9 +16,10 @@ After clone this app change app.yaml to your GAE app name.
 Further reading
 ===============
 
-There are some utilities projects for Djando running with GAE. 
-* Google App Engine Django: http://code.google.com/p/google-app-engine-django
-* Django Norel: http://www.allbuttonspressed.com/projects/django-nonrel
+There are some utilities projects for Djando running with GAE.
+ 
+	.. _Google App Engine Django: http://code.google.com/p/google-app-engine-django
+	.. _Django Norel: http://www.allbuttonspressed.com/projects/django-nonrel
 
 
 Reporting Bugs and Requesting Features
