@@ -18,8 +18,8 @@ Further reading
 
 There are some utilities projects for Djando running with GAE.
  
-	.. _Google App Engine Django: http://code.google.com/p/google-app-engine-django
-	.. _Django Norel: http://www.allbuttonspressed.com/projects/django-nonrel
+* Google App Engine Django: http://code.google.com/p/google-app-engine-django
+* Django Norel: http://www.allbuttonspressed.com/projects/django-nonrel
 
 
 Reporting Bugs and Requesting Features
